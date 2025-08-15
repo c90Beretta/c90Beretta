@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @c90Beretta
+- 🚀 Currently employed on **Edesarrollos** as a Junior Developer
 - 👀 I’m interested in Front-End Web Pages and Mobile Apps!
 - 🌱 I’m currently learning Flutter-dart & React
 - 💞️ I’m looking to collaborate on any challenge to prove my skills!
